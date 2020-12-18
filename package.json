@@ -9,8 +9,12 @@
     "test": "npm run build && npm run start",
     "dev": "tsc --watch"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "scraper",
+    "module",
+    "library"
+  ],
+  "author": "DasDarki",
   "license": "MIT",
   "dependencies": {
     "jsdom": "^16.4.0",
